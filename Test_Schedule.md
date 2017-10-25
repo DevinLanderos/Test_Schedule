@@ -9,3 +9,12 @@
 | 4 | Monday, November 13 | Friday, November 17 | Saturday, November 18 |			
 | 5 | Monday, November 20 | Friday, November 24 | Saturday, November 25 |			
 | 6 | Monday, November 27 | Friday, December 1 | Saturday, December 2 |			
+
+# Start Date
+The date at which possible new test cases are discussed and starting to be written.
+
+# Test Date 
+The date that the test cases are ran.
+
+# Results 
+Results from the tests are disscussed and what issues arised from the tests.
